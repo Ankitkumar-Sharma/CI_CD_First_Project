@@ -1,2 +1,3 @@
-# CI_CD_First_Project
-CI_CD
+# maven-project
+
+Simple Maven Project
